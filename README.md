@@ -19,7 +19,7 @@ switch ANC from a Quick Settings tile.
 
 ## Requirements
 
-- Honor MagicOS 10.0+ (Android 16+)
+- Honor MagicOS 9.0+ (Android 14+)
 - KernelSU / Magisk + LSPosed (Zygisk, API 101+)
 - NickHCK YuanDao OriG in earbud
 
